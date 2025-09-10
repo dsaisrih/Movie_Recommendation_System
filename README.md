@@ -28,4 +28,4 @@ Main recommendation logic = cosine similarity (content-based).
 
 Alternative logic = cluster-based recommendations.
 
-👉 In short: it’s a content-based + clustering hybrid recommender, with an interactive user interface in the console.
+In short: it’s a content-based + clustering hybrid recommender, with an interactive user interface in the console.
